@@ -5,22 +5,20 @@ Dataset is available on GitHub (https://github.com/ageron/handson-ml/tree/master
 
 The different features are
 
-longitude
+1. Longitude
 
-latitude
+2. Latitude
 
-housing_median_age
+3. Median Age (neighborhood)
 
-total_rooms
+4. Total Rooms
 
-total_bedrooms
+5. Total Bedrooms
 
-population
+6. Population (neighborhood)
 
-households
+7. Median Income (neighborhood)
 
-median_income
+8. Median House Value (neighborhood)
 
-median_house_value
-
-ocean_proximity
+9. Ocean Proximity
