@@ -1,6 +1,6 @@
-# CA-Housing-Price-Prediction-Model
+# CA Housing Price Prediction 
+In this project we will look at different regression models to predict the housing prices in the bay area 
 
-This project is based from the textbook namely "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Geron.
 Dataset is available on GitHub (https://github.com/ageron/handson-ml/tree/master/datasets/housing).
 Dataset has 20640 rows and 10 Columns
 Columns are
